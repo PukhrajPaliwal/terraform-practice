@@ -7,7 +7,7 @@ variable "resource_group_name" {
 }   
 variable "resource_group_location" {
     type = string
-    default = "gen2-eastus"
+    default = "eastus"
             
   
 }
