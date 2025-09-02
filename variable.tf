@@ -1,6 +1,6 @@
 variable "resource_group_name" {   
     type = string
-    default = "pukhraj2026"
+    default = "pukhraj2027"
 
 
   
